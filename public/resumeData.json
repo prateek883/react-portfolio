@@ -1,0 +1,150 @@
+{
+    "main": {
+        "name": "Prateek Singh",
+        "occupation": " Web Developer and Mobile App Developer (Android & IOS) ",
+        "description": "Full Stack Developer && Freelancer .",
+        "image": "prateek.jpg",
+        "bio": "My name is Prateek, I'm a Full Stack Developer. Currently I'm working at Freelancer project",
+        "contactmessage": "Get in touch with me to receive further details or anything else.",
+        "email": "singhprateek089@gmail.com",
+        "phone": "+91 7588663255",
+        "address": {
+            "street": "Goregaon West",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip": "400 104"
+        },
+        "website": "http://www.timbakerdev.com",
+        "resumedownload": "https://drive.google.com/file/d/1BAzoGuk2UbW0Squ2TO4-Xs_64iZ5pCjg/view?usp=sharing",
+        "social": [{
+                "name": "facebook",
+                "url": "https://www.facebook.com/sonny.sangha.3",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedIn",
+                "url": "https://www.linkedin.com/in/prateek-singh-6ab984145/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "Instagram",
+                "url": "https://www.instagram.com/prateek__singh___25/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "Github",
+                "url": "http://github.com/prateek883",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [{
+                "school": "University of Mumbai",
+                "degree": "Bachelor of Information Technology",
+                "graduated": "Angust 2015",
+                "description": "Graduated"
+            },
+            {
+                "school": "University of Pune",
+                "degree": "Master in Computer Application",
+                "graduated": "July 2018",
+                "description": "Graduated"
+            }
+        ],
+        "work": [{
+                "company": "Omegasoft Technologies Limited",
+                "title": "Software Intern",
+                "years": "Jan 2018 - May 2018",
+                "description": "Completed internship in 5 months."
+            },
+            {
+                "company": "Out of the Box Solutions",
+                "title": "Full stack developer",
+                "years": "May 2020 - July 2020",
+                "description": "Maintaining the Websites and also making web app."
+            }
+        ],
+        "skills": [{
+                "name": "ReactJs",
+                "level": "80%"
+            },
+            {
+                "name": "CSS",
+                "level": "95%"
+            },
+            {
+                "name": "Android & React Native",
+                "level": "80%"
+            },
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "HTML5",
+                "level": "80%"
+            },
+            {
+                "name": "MongoDB",
+                "level": "80%"
+            },
+            {
+                "name": "Java",
+                "level": "80%"
+            },
+            {
+                "name": "Spring",
+                "level": "82%"
+            },
+            {
+                "name": "Javascript",
+                "level": "85%"
+            },
+            {
+                "name": "MERN Stack",
+                "level": "85%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "Furniture Website",
+                "category": "Website (HTML,CSS,Javascript)",
+                "image": "website.png",
+                "url": "https://github.com/prateek883/comfy-house"
+            },
+            {
+                "title": "Tinder Clone",
+                "category": "Tinder Clone built with  Firebase, ExpressJS, ReactJS, NodeJS)",
+                "image": "Tinder-Clone.png",
+                "url": "https://tinder-clone-ac1be.web.app/"
+            },
+            {
+                "title": "Facebook Clone with React",
+                "category": "Facebook Clone built with ReactJS",
+                "image": "facebook-clone.png",
+                "url": "https://facebook-clone-ebf7c.web.app"
+            },
+            {
+                "title": "Airbnb Clone",
+                "category": "Facebook Clone built with ReactJS",
+                "image": "airbnb-clone.jpeg",
+                "url": "https://github.com/prateek883/airbnb-clone"
+            },
+            {
+                "title": "COVID-19 Tracker App",
+                "category": "COVID-19 built with ReactJS",
+                "image": "covid-19.png",
+                "url": "https://covid-19-tracker-da3b6.web.app/"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+            "text": "Accomplished software developer specialized in object-oriented approach to network and platform development. ",
+            "user": "Extensive background in the full life cycle of software development encompassing design, coding, testing and debugging."
+        }]
+    }
+}
